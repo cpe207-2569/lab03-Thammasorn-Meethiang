@@ -1,0 +1,13 @@
+body {
+  	margin: auto;
+  	padding: 1rem;
+}
+.my-rounded-left {
+  border-top-left-radius: 30px;
+  border-bottom-left-radius: 30px;
+}
+
+.my-rounded-right {
+  border-top-right-radius: 30px;
+  border-bottom-right-radius: 30px;
+}
